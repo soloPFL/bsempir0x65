@@ -2,6 +2,8 @@
 main:
   - title: "Our Github"
     url: https://github.com/bsempir0x65
+  - title: "CTF_Writeups"
+    url: "/categories/#writeup"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
