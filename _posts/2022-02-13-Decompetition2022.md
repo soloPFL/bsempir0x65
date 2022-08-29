@@ -3,6 +3,8 @@ title:  "Decompetition CTF 2022"
 search: true
 categories: 
   - writeup
+sidebar:
+  nav: "docs"
 ---
 
 # <a name="Journey begins"></a>Journey begins

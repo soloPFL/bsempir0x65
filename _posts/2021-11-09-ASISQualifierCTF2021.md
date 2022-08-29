@@ -3,6 +3,8 @@ title:  "ASIS Qualifier CTF 2021"
 search: true
 categories: 
   - writeup
+sidebar:
+  nav: "docs"
 ---
 
 # Disclaimer
