@@ -12,3 +12,24 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+
+docs:
+  - title: CTF Writeups
+    children:
+      - title: "DownUnderCTF2021"
+        url: /writeup/DownUnderCTF_2021/
+      - title: "ASIS Qualifier CTF 2021"
+        url: /writeup/ASISQualifierCTF2021/
+      - title: "Knight CTF 2022"
+        url: /writeup/KnightCTF_2022/
+      - title: "Decompetition CTF 2022"
+        url: /writeup/Decompetition2022/
+      - title: "Angstrom CTF 2022"
+        url: /writeup/Angstrom_CTF_2022/
+      - title: "pico CTF 2022"
+        url: /writeup/picoCTF_2022/
+      - title: "SEETF CTF 2022"
+        url: /writeup/SEETF_CTF_2022/
+     # - title: "Upgrading"
+     #   url: /docs/upgrading/
